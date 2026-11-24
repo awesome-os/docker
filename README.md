@@ -20,3 +20,10 @@ cp just rootfs/
 runsc spec -- /just
 sudo runsc run just
 ```
+
+## Quick Start (Windows / Linux / macOS)
+
+```sh
+# Clone & enter repository (all platforms)
+git clone https://github.com/awesome-os/docker.git && cd docker
+```
